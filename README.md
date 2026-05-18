@@ -1,11 +1,5 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+<div align="right">
+  <img height="151" src="https://shinyash.com/cdn/shop/files/poke_capture_0006_000_mf_g_00000000_f_r.png?v=1740276053&width=480"  />
 </div>
 
 ###
@@ -19,16 +13,41 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=EduMont009&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/EduMont009/EduMont009/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=EduMont009.EduMont009&"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduMont009/EduMont009/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduMont009/EduMont009/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EduMont009/EduMont009/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<h1 align="center">Hello World 🖖</h1>
+
+###
+
+<h3 align="left">👩‍💻  Sobre mim</h3>
+
+###
+
+<p align="left">## Olá 👋<br><br>Sou Eduardo, estudante de TI do Brasil 🇧🇷<br><br>- 🔭 Atualmente estou desenvolvendo minhas habilidades em programação e automação<br>- 📚 Estou aprendendo Python, Git/GitHub e desenvolvimento web<br>- ⚡ No meu tempo livre gosto de explorar novas tecnologias, criar conteúdo e desenvolver pequenos projetos</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=EduMont009&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
